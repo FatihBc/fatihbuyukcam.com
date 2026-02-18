@@ -3,6 +3,7 @@ interface EducationWork {
   degree: string;
   degree_tr: string;
   institution: string;
+  institution_tr: string;
   from: string;
   until: string;
   details: string;
@@ -15,6 +16,7 @@ const educationWork: EducationWork[] = [
     degree: "University",
     degree_tr: "Üniversite",
     institution: "Hacettepe University Medicine Faculty (English), Ankara, Turkey",
+    institution_tr: "Hacettepe Üniversitesi Tıp Fakültesi (İngilizce), Ankara, Türkiye",
     from: "09/1998",
     until: "06/2006",
     details: "",
@@ -25,6 +27,7 @@ const educationWork: EducationWork[] = [
     degree: "Emergency Medicine Residency Program",
     degree_tr: "Acil Tıp Uzmanlık Eğitimi",
     institution: "Diskapi Yildirim Beyazit Education & Research Hospital, Ankara, Turkey",
+    institution_tr: "Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi, Ankara, Türkiye",
     from: "12/2006",
     until: "06/2011",
     details: "Department of Emergency Medicine",
@@ -35,6 +38,7 @@ const educationWork: EducationWork[] = [
     degree: "Second University",
     degree_tr: "İkinci Üniversite",
     institution: "Anadolu University, Open Education Faculty, Department of Medical and Technical Services for the Program in Management of Health Instutitions",
+    institution_tr: "Anadolu Üniversitesi, Açıköğretim Fakültesi, Sağlık Kurumları İşletmeciliği Programı",
     from: "10/2008",
     until: "05/2010",
     details: "",
@@ -45,6 +49,7 @@ const educationWork: EducationWork[] = [
     degree: "Resident Doctor",
     degree_tr: "Asistan Doktor",
     institution: "Diskapi Yildirim Beyazit Education & Research Hospital, Ankara, Turkey",
+    institution_tr: "Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi, Ankara, Türkiye",
     from: "12/2006",
     until: "07/2011",
     details: "Department of Emergency Medicine",
@@ -55,6 +60,7 @@ const educationWork: EducationWork[] = [
     degree: "MD",
     degree_tr: "Uzman Dr.",
     institution: "Diskapi Yildirim Beyazit Education & Research Hospital, Ankara, Turkey",
+    institution_tr: "Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi, Ankara, Türkiye",
     from: "08/2011",
     until: "09/2014",
     details: "Department of Emergency Medicine",
@@ -65,6 +71,7 @@ const educationWork: EducationWork[] = [
     degree: "Assoc.Prof.Dr.",
     degree_tr: "Doç.Dr.",
     institution: "Diskapi Yildirim Beyazit Education & Research Hospital, Ankara, Turkey",
+    institution_tr: "Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi, Ankara, Türkiye",
     from: "10/2014",
     until: "12/2014",
     details: "Department of Emergency Medicine",
@@ -75,6 +82,7 @@ const educationWork: EducationWork[] = [
     degree: "Head of the Emergency Department",
     degree_tr: "Acil Tıp Bölüm Başkanı",
     institution: "Bagcilar Education & Research Hospital, İstanbul, Turkey",
+    institution_tr: "Bağcılar Eğitim ve Araştırma Hastanesi, İstanbul, Türkiye",
     from: "01/2015",
     until: "12/2015",
     details: "Department of Emergency Medicine",
@@ -85,6 +93,7 @@ const educationWork: EducationWork[] = [
     degree: "Assoc.Prof.Dr.",
     degree_tr: "Doç.Dr.",
     institution: "Diskapi Yildirim Beyazit Education & Research Hospital, Ankara, Turkey",
+    institution_tr: "Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi, Ankara, Türkiye",
     from: "01/2016",
     until: "09/2016",
     details: "Department of Emergency Medicine",
@@ -95,6 +104,7 @@ const educationWork: EducationWork[] = [
     degree: "Assoc.Prof.Dr.",
     degree_tr: "Doç.Dr.",
     institution: "Acibadem Eskisehir Hospital, Eskisehir, Turkey",
+    institution_tr: "Acıbadem Eskişehir Hastanesi, Eskişehir, Türkiye",
     from: "10/2016",
     until: "12.2017",
     details: "Department of Emergency Medicine",
@@ -105,6 +115,7 @@ const educationWork: EducationWork[] = [
     degree: "Emergency Physician and Vice Managing Director",
     degree_tr: "Acil Tıp Uzmanı ve Başhekim Yardımcısı",
     institution: "Memorial Ataşehir Hospital, Emergency Physician and Vice Managing Director",
+    institution_tr: "Memorial Ataşehir Hastanesi, İstanbul, Türkiye",
     from: "01/2018",
     until: "06.2022",
     details: "Department of Emergency Medicine, 2019 July - 2021 August Managing Director",
@@ -115,6 +126,7 @@ const educationWork: EducationWork[] = [
     degree: "Emergency Physician",
     degree_tr: "Acil Tıp Uzmanı",
     institution: "Acıbadem Ataşehir Hospital, Istanbul, Turkey",
+    institution_tr: "Acıbadem Ataşehir Hastanesi, İstanbul, Türkiye",
     from: "06.2022",
     until: "Continue",
     details: "Department of Emergency Medicine",

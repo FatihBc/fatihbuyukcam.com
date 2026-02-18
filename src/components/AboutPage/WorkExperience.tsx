@@ -21,7 +21,7 @@ function WorkExperience() {
                 </p>
               </div>
               <div className="col-span-5">
-                <p className="text-sm font-semibold">{item.institution}</p>
+                <p className="text-sm font-semibold">{isTR ? item.institution_tr || item.institution : item.institution}</p>
                 {(isTR ? item.details_tr || item.details : item.details).trim() && (
                   <p className="text-sm mt-1">- {isTR ? item.details_tr || item.details : item.details}</p>
                 )}
