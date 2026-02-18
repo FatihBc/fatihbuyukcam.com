@@ -20,7 +20,7 @@ function NavigationBar() {
         return (
           <Link
             key={item.path}
-            className="inline-flex items-center justify-center px-8 py-3 rounded-lg font-semibold text-base tracking-wide transition-all duration-200 shadow-sm hover:shadow-md"
+            className="inline-flex items-center justify-center px-8! py-3! rounded-lg font-semibold text-base tracking-wide transition-all duration-200 shadow-sm hover:shadow-md"
             style={{
               backgroundColor: isActive ? "#6b0000" : "#470000",
               color: "#ffffff",
