@@ -12,7 +12,7 @@ function Home() {
 
   const pageClass = `min-h-screen ${isDark ? "bg-[#1a0000] text-white" : "bg-[#fdf5f5] text-black"
     }`;
-  const containerClass = `flex flex-col px-6 py-8 mt-4 border border-[#470000] rounded-lg shadow-md ${isDark ? "bg-[#2a0000] text-white" : "bg-white text-gray-800"
+  const containerClass = `flex flex-col px-10 py-8 mt-6 border border-[#470000] rounded-lg shadow-md ${isDark ? "bg-[#2a0000] text-white" : "bg-white text-gray-800"
     }`;
 
   return (
