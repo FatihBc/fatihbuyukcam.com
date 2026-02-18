@@ -14,7 +14,7 @@ let researchs = [
                 abstract: "Approximately 60% of the adult population experience at least 1 episode of epistaxis in their lifetimes. Because the blood supply of the nasal mucosa ultimately originates from the carotid arteries, acute epistaxis is potentially very serious. Sudden and massive epistaxis is usually fatal, and it is one of the most dreaded complications after radiotherapy (RT) among patients with cancer of the head and neck region. To the best of our knowledge, few patients who are alive have been presented with massive epistaxis due to ruptured internal carotid artery pseudoaneurysm associated with RT in the literature. Herein, we reported a successfully treated massive epistaxis case of ruptured internal carotid artery pseudoaneurysm associated with RT in a patient who has nasopharyngeal carcinoma.",
                 PMID: "20647845",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A01 - Successfully Treated Massive.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A01 - Successfully Treated Massive.pdf"
             }, {
                 researchId: "01002",
                 year: "",
@@ -27,7 +27,7 @@ let researchs = [
                 abstract: "Hypocalcemia with stridor is a well-known condition in the pediatric age group but has rarely been reported in the elderly. We report an elderly patient who presented with dyspnea and laryngeal stridor attack caused by hypocalcemia. The patient had been suffering from stridor and dyspnea episodes for 2 years, and the etiology had not been determined until the evaluation in our department. The cause of stridor was hypocalcemia secondary to thyroidectomy. Complete resolution of stridor was achieved by calcium replacement therapy.",
                 PMID: "21373324",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A02 - A delayed diagnosis, stridor secondary to hypocalcemia.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A02 - A delayed diagnosis, stridor secondary to hypocalcemia.pdf"
             }, {
                 researchId: "01003",
                 year: "",
@@ -40,7 +40,7 @@ let researchs = [
                 abstract: "Traumatic pneumorrhachis (air within the spinal canal) is a very rare entity and rarer in the pediatric population. We report a 7-year-old polytrauma patient with subarachnoid pneumorrhachis and discuss the causes, mechanism, and implications of this condition.",
                 PMID: "21057283",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A03 - Traumatic pneumorrhachis in a child, case report.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A03 - Traumatic pneumorrhachis in a child, case report.pdf"
             }, {
                 researchId: "01004",
                 year: "",
@@ -52,7 +52,7 @@ let researchs = [
                 doi: "10.1097/MEJ.0b013e328344acc9",
                 PMID: "21386685",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A04 - Intravenous organophosphate (dichlorvos) injection and the prolonged effect of toxin.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A04 - Intravenous organophosphate (dichlorvos) injection and the prolonged effect of toxin.pdf"
             }, {
                 researchId: "01005",
                 year: "",
@@ -65,7 +65,7 @@ let researchs = [
                 abstract: "Glucocorticoids are commonly used as potent antiinflammatory agents in several conditions. Hypokalemia-and muscle weakness can be rarely seen after administration of high-dose glucocorticoids. In this report, we describe an acute onset of hypokalemia and muscle weakness after low dose of methylprednisolone therapy.",
                 PMID: "20685057",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A05 - Hypokalemia and muscle paralysis after.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A05 - Hypokalemia and muscle paralysis after.pdf"
             }, {
                 researchId: "01006",
                 year: "",
@@ -87,7 +87,7 @@ let researchs = [
                 },
                 PMID: "22792819",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A06 - Acil servise başvuran travmalarda ürogenital yaralanmaların değerlendirilmesi.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A06 - Acil servise başvuran travmalarda ürogenital yaralanmaların değerlendirilmesi.pdf"
             }, {
                 researchId: "01007",
                 year: "",
@@ -110,7 +110,7 @@ let researchs = [
 
                 PMID: "23161035",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A07 - Same effect of sublingual and oral captopril in hypertensive crisis.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A07 - Same effect of sublingual and oral captopril in hypertensive crisis.pdf"
             }, {
                 researchId: "01008",
                 year: "",
@@ -133,7 +133,7 @@ let researchs = [
 
                 PMID: "23588903",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A08 - Predicting the outcome in children with head trauma Comparison of FOUR score and Glasgow Coma Scale.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A08 - Predicting the outcome in children with head trauma Comparison of FOUR score and Glasgow Coma Scale.pdf"
             }, {
                 researchId: "01009",
                 year: "",
@@ -146,7 +146,7 @@ let researchs = [
                 abstract: "Metformin is a biguanide group antihyperglycemic agent that reduces the basal and postprandial glucose level and increases glucose tolerance in patients with type II diabetes mellitus. The rarely observed side effects are nausea, vomiting, diarrhea, and abdominal pain. In some hypersensitive patients, mild erythema has been reported. In this case report, angioedema developed immediately after 1 dose of metformin usage.",
                 PMID: "23380117",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A09 - Angioedema after the first dose of metformin.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A09 - Angioedema after the first dose of metformin.pdf"
             }, {
                 researchId: "01010",
                 year: "",
@@ -159,7 +159,7 @@ let researchs = [
                 abstract: "Violence against women is a continuing social issue and there is a need to implement ways of reducing this problem. In our study, the demographic characteristics and trauma zones of women who attended the emergency department of a hospital in Turkey were investigated together with whether the women had received any psychiatric support. 263 of 646 women who were the victims of physical violence attended the Emergency Department of Dişkapi Yildirim Beyazit Training and Research Hospital from 2009 to 2010. The women were contacted by telephone invited to participate in the research. Violence against women is seen most frequently in the 20-40 age group. It is seen from this study that the most common physical violence against women mostly occurs among those who have low levels of education and income, are married and have children. It was also found that 7.6 % of patients had received psychiatric support after being subjected to violence. When the educational level increases, the rate of receiving psychiatric support increases. In terms of violence against women, emergency physicians and also wider society should be informed about the extent of the problem, second there is a need for more training in the recognition of violence to women. In addition the reasons for this violence and ways of resolving the problem should be further investigated.",
                 PMID: "",
                 url: "https://www.researchgate.net/profile/Hayat-Kumbasar-Karaosmanoglu/publication/236839785_Late_presenters_and_significance_of_screening_tests_in_early_diagnosis_of_HIV_infection_in_Istanbul/links/02e7e51949a2121e4e000000/Late-presenters-and-significance-of-screening-tests-in-early-diagnosis-of-HIV-infection-in-Istanbul.pdf#page=16",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A10 - Female patients exposed to violence.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A10 - Female patients exposed to violence.pdf"
             }, {
                 researchId: "01011",
                 year: "",
@@ -190,7 +190,7 @@ let researchs = [
 
                 PMID: "23687212",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A11 - Underdiagnosis of anaphylaxis in the emergency department.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A11 - Underdiagnosis of anaphylaxis in the emergency department.pdf"
             }, {
                 researchId: "010012",
                 year: "",
@@ -203,7 +203,7 @@ let researchs = [
                 abstract: "A 28-year-old-man admitted to emergency department with ventricular tachycardia. Patient had drunk 3 cans of 250-mL energy drink 5 hours before the basketball match; he had palpitation and nausea before the match. After 30 minutes of the match, during the break, patient lost his consciousness. On admission, normal cardiac rhythm was achieved by cardioversion, and the patient was hospitalized and died on the third day. Energy drinks generally contain caffeine, taurine, various vitamins, glucose, and herbal extracts such as guarana and ginseng. Especially in high doses, caffeine can cause palpitations and supraventricular and ventricular arrhythmia. Energy drink consumers should be informed about their severe adverse effects in case of overuse.",
                 PMID: "23896014",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A12 - Death of a young man after overuse of energy drink.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A12 - Death of a young man after overuse of energy drink.pdf"
             }, {
                 researchId: "010013",
                 year: "",
@@ -228,7 +228,7 @@ let researchs = [
 
                 PMID: "26815549",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A13 - Is computed tomography necessary to determine liver injury in pediatric trauma patients with negative ultrasonography.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A13 - Is computed tomography necessary to determine liver injury in pediatric trauma patients with negative ultrasonography.pdf"
             }, {
                 researchId: "01014",
                 year: "",
@@ -241,7 +241,7 @@ let researchs = [
                 abstract: "IL-33 is a proinflammatory cytokine that is a member of IL-1 family. Previously the effect of IL-33 on kidney injury is showed in animal models. In this study, we searched if we can use IL-33 to show the early stage of kidney injury in diabetic patients. Three groups are identified: 26 patients in Group 1: Healthy group, that do not have any chronic diseases and not taking any medication; 42 patients in Group 2: DM (diabetes mellitus) group without any known kidney disease and with normal kidney functions; 32 patients in Group 3: DM + MA (microalbuminuria) group that are assumed to have nephropathy. IL-33 level of DM patient group is greater than healthy group; also IL-33 level of DM + MA patient group is greater than healthy group; but there is not any difference between DM and DM + MA group. The increase in IL-33 levels in diabetic nephropathy is not associated with kidney injury but the increase could be resulting because of diabetes. So IL-33 cannot be used in early recognition of diabetic nephropathy.",
                 PMID: "24028569",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A14 - Is IL-33 useful to detect early stage of renal failure.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A14 - Is IL-33 useful to detect early stage of renal failure.pdf"
             }, {
                 researchId: "01015",
                 year: "",
@@ -269,7 +269,7 @@ let researchs = [
                 },
                 PMID: "24648300",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A15 - M30 Does Not Predict the Severity of Hepatosteatosis.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A15 - M30 Does Not Predict the Severity of Hepatosteatosis.pdf"
             }, {
                 researchId: "01016",
                 year: "",
@@ -293,7 +293,7 @@ let researchs = [
                 },
                 PMID: "24479875",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A16 - High-density Lipoprotein Subfractions.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A16 - High-density Lipoprotein Subfractions.pdf"
             }, {
                 researchId: "01017",
                 year: "",
@@ -317,7 +317,7 @@ let researchs = [
                 },
                 PMID: "26816074",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A17 - The prognostic value of plasma copeptin levels.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A17 - The prognostic value of plasma copeptin levels.pdf"
             }, {
                 researchId: "01018",
                 year: "",
@@ -329,7 +329,7 @@ let researchs = [
                 doi: "",
                 PMID: "24995088",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A18 - Effects of urtica dioica extract on experimental acute pancreatitis model in rats..pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A18 - Effects of urtica dioica extract on experimental acute pancreatitis model in rats..pdf"
             }, {
                 researchId: "01019",
                 year: "",
@@ -341,7 +341,7 @@ let researchs = [
                 doi: "10.1007/s00590-014-1490-4",
                 PMID: "24894445",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A19 - MRI analysis of coracohumeral interval width and its relation to rotator cuff tear.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A19 - MRI analysis of coracohumeral interval width and its relation to rotator cuff tear.pdf"
             }, {
                 researchId: "01020",
                 year: "",
@@ -353,7 +353,7 @@ let researchs = [
                 doi: "",
                 PMID: "25126164",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A20 - Serum M30 and M65 levels and effects of Ankaferd.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A20 - Serum M30 and M65 levels and effects of Ankaferd.pdf"
             }, {
                 researchId: "01021",
                 year: "",
@@ -365,7 +365,7 @@ let researchs = [
                 doi: "",
                 PMID: "25567464",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A21 - Ataxia caused by a single dose of dexketoprofen trometamol.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A21 - Ataxia caused by a single dose of dexketoprofen trometamol.pdf"
             }, {
                 researchId: "01022",
                 year: "",
@@ -377,7 +377,7 @@ let researchs = [
                 doi: "",
                 PMID: "25567466",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A22 - Elevated cardiac enzymes due to mushroom poisoning.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A22 - Elevated cardiac enzymes due to mushroom poisoning.pdf"
             }, {
                 researchId: "010023",
                 year: "",
@@ -389,7 +389,7 @@ let researchs = [
                 doi: "",
                 PMID: "25550952",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A23 - Assessment of hepatic steatosis on contrast enhanced.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A23 - Assessment of hepatic steatosis on contrast enhanced.pdf"
             }, {
                 researchId: "010024",
                 year: "",
@@ -401,7 +401,7 @@ let researchs = [
                 doi: "10.1016/j.ajem.2014.11.041",
                 PMID: "25511367",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A24 - Anton syndrome during oxygen-ozone therapy.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A24 - Anton syndrome during oxygen-ozone therapy.pdf"
             }, {
                 researchId: "010025",
                 year: "",
@@ -413,7 +413,7 @@ let researchs = [
                 doi: "10.9734/BJMMR/2016/22451",
                 PMID: "25511367",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A25 - Case series of heroin-induced non-cardiac pulmonary oedema.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A25 - Case series of heroin-induced non-cardiac pulmonary oedema.pdf"
             }, {
                 researchId: "010026",
                 year: "",
@@ -425,7 +425,7 @@ let researchs = [
                 doi: "10.9734/BJMMR/2016/22451",
                 PMID: "",
                 url: "https://journaljammr.com/index.php/JAMMR/article/view/2540",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A26 - Suicide Attempt by Swallowing with 60 Formoterol.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A26 - Suicide Attempt by Swallowing with 60 Formoterol.pdf"
             }, {
                 researchId: "010027",
                 year: "",
@@ -437,7 +437,7 @@ let researchs = [
                 doi: "10.4274/tjh.2014.0029",
                 PMID: "25913214",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A27 - Comparison of the efficiencies of buffers containing Ankaferd.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A27 - Comparison of the efficiencies of buffers containing Ankaferd.pdf"
             }, {
                 researchId: "010028",
                 year: "",
@@ -449,7 +449,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A28- Diffusion oxygen mask is better in asthma attacks but not in COPD attack.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A28- Diffusion oxygen mask is better in asthma attacks but not in COPD attack.pdf"
             }, {
                 researchId: "010029",
                 year: "",
@@ -461,7 +461,7 @@ let researchs = [
                 doi: "",
                 PMID: "28112696",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A29 - Socio-demographicand clinical profile of substance abuse patients.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A29 - Socio-demographicand clinical profile of substance abuse patients.pdf"
             }, {
                 researchId: "010030",
                 year: "",
@@ -473,7 +473,7 @@ let researchs = [
                 doi: "10.1016/j.ajem.2017.07.084.",
                 PMID: "29037581",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A30 - Pulmonary embolism due to exogenous estrogen intoxication.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A30 - Pulmonary embolism due to exogenous estrogen intoxication.pdf"
             }, {
                 researchId: "010031",
                 year: "",
@@ -485,7 +485,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A31 - State and trait anxiety of patients’ relatives in the emergency department.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A31 - State and trait anxiety of patients’ relatives in the emergency department.pdf"
             }, {
                 researchId: "010032",
                 year: "",
@@ -497,7 +497,7 @@ let researchs = [
                 doi: "10.4172/2165-7548.1000380",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A32 - Determination of Risk Factors for Mortality in Elderly Patients with Hypoglycemia.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A32 - Determination of Risk Factors for Mortality in Elderly Patients with Hypoglycemia.pdf"
             }, {
                 researchId: "010033",
                 year: "",
@@ -509,7 +509,7 @@ let researchs = [
                 doi: "10.34689/SH.2020.22.2.006",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A33 - The prognostic value of leukocyte in cerebrovascular diseases.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A33 - The prognostic value of leukocyte in cerebrovascular diseases.pdf"
             }, {
                 researchId: "010034",
                 year: "",
@@ -521,7 +521,7 @@ let researchs = [
                 doi: "10.1177/1024907919860632",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A34 - The witness of the patient’s relatives increases the anxiety of the physician, but decreases the anxiety of the relatives of the patient.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A34 - The witness of the patient’s relatives increases the anxiety of the physician, but decreases the anxiety of the relatives of the patient.pdf"
             }, {
                 researchId: "010035",
                 year: "",
@@ -533,7 +533,7 @@ let researchs = [
                 doi: "10.1177/",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A35 - What Does The Geriatric Patient Expect From Emergency Services Do We Need A Geriatric Emergency Department.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A35 - What Does The Geriatric Patient Expect From Emergency Services Do We Need A Geriatric Emergency Department.pdf"
             }, {
                 researchId: "010036",
                 year: "",
@@ -545,7 +545,7 @@ let researchs = [
                 doi: "10.1177/02841851251322480",
                 PMID: "40091566",
                 url: "",
-                fileLink: "../public/files/A - Uluslararası yayınlar/A36 - Does platelet to lymphocyte ratio predict the ultrasound stage in hepatosteatosis.pdf"
+                fileLink: "/files/A - Uluslararası yayınlar/A36 - Does platelet to lymphocyte ratio predict the ultrasound stage in hepatosteatosis.pdf"
             },
         ]
     },
@@ -564,7 +564,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "https://dergipark.org.tr/en/pub/kocatepetip/issue/17409/182305",
-                fileLink: "../public/files/D - Ulusal makale/D01 Acil Servise Başvuran Künt Toraks Travma Vakalarının İncelenmesi.pdf"
+                fileLink: "/files/D - Ulusal makale/D01 Acil Servise Başvuran Künt Toraks Travma Vakalarının İncelenmesi.pdf"
             }, {
                 researchId: "02002",
                 year: "2012",
@@ -576,7 +576,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D02 Acil Serviste Göğüs Travmalı Çocuk Hastaların Geriye Dönük İncelenmesi.pdf"
+                fileLink: "/files/D - Ulusal makale/D02 Acil Serviste Göğüs Travmalı Çocuk Hastaların Geriye Dönük İncelenmesi.pdf"
             },
             {
                 researchId: "02003",
@@ -589,7 +589,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D03 Acil serviste penetran göğüs travması 76 hastanın analizi.pdf"
+                fileLink: "/files/D - Ulusal makale/D03 Acil serviste penetran göğüs travması 76 hastanın analizi.pdf"
             },
             {
                 researchId: "02004",
@@ -602,7 +602,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D04 Tüp torakostomi uygulanan toraks travmalI 85 hastanın analizi.pdf"
+                fileLink: "/files/D - Ulusal makale/D04 Tüp torakostomi uygulanan toraks travmalI 85 hastanın analizi.pdf"
             },
             {
                 researchId: "02005",
@@ -615,7 +615,7 @@ let researchs = [
                 doi: "10.5152/jaem.2013.035",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D05 Acil serviste iskemik inme tanısı konulan hastaların epidemiyolojik incelemesi.pdf"
+                fileLink: "/files/D - Ulusal makale/D05 Acil serviste iskemik inme tanısı konulan hastaların epidemiyolojik incelemesi.pdf"
             },
             {
                 researchId: "02006",
@@ -628,7 +628,7 @@ let researchs = [
                 doi: "10.5505/abantmedj.2013.74745",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D06 Şanlıurfa Eğitim ve Araştırma Hastanesi’ nde Yatırılarak İzlenmiş Olan Yanık Vakaları.pdf"
+                fileLink: "/files/D - Ulusal makale/D06 Şanlıurfa Eğitim ve Araştırma Hastanesi’ nde Yatırılarak İzlenmiş Olan Yanık Vakaları.pdf"
             },
             {
                 researchId: "02007",
@@ -641,7 +641,7 @@ let researchs = [
                 doi: "10.5152/jaem.2013.96729",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D07 Son Yıllarda Türkiye’de Acil Tıp Eğitim Kadroları ve Tercih Edilme Oranları.pdf"
+                fileLink: "/files/D - Ulusal makale/D07 Son Yıllarda Türkiye’de Acil Tıp Eğitim Kadroları ve Tercih Edilme Oranları.pdf"
             },
             {
                 researchId: "02008",
@@ -654,7 +654,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D08 Epidemiological and Clinical Investigation of the ST Elevated.pdf"
+                fileLink: "/files/D - Ulusal makale/D08 Epidemiological and Clinical Investigation of the ST Elevated.pdf"
             },
             {
                 researchId: "02009",
@@ -667,7 +667,7 @@ let researchs = [
                 doi: "10.5505/abantmedj.2014.92485",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D09 Acil servise üst gastrointestinal kanama ile başvuran hastalar.pdf"
+                fileLink: "/files/D - Ulusal makale/D09 Acil servise üst gastrointestinal kanama ile başvuran hastalar.pdf"
             },
             {
                 researchId: "02010",
@@ -680,7 +680,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D10 Diarrhea Related Hypokalemia.pdf"
+                fileLink: "/files/D - Ulusal makale/D10 Diarrhea Related Hypokalemia.pdf"
             },
             {
                 researchId: "02011",
@@ -693,7 +693,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D11 The causes of emergency department visits due to flank pain and the clinical investigation of urolithiasis.pdf"
+                fileLink: "/files/D - Ulusal makale/D11 The causes of emergency department visits due to flank pain and the clinical investigation of urolithiasis.pdf"
             },
             {
                 researchId: "02012",
@@ -706,7 +706,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D12 Künt Travmaya Bağlı Aorta Diseksiyonu Olgusu.pdf"
+                fileLink: "/files/D - Ulusal makale/D12 Künt Travmaya Bağlı Aorta Diseksiyonu Olgusu.pdf"
             },
             {
                 researchId: "02013",
@@ -719,7 +719,7 @@ let researchs = [
                 doi: "10.5505/sakaryamj.2015.22931",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D13 Yedi Yaş Altındaki Çocuklarda Televizyon Düşmesi.pdf"
+                fileLink: "/files/D - Ulusal makale/D13 Yedi Yaş Altındaki Çocuklarda Televizyon Düşmesi.pdf"
             },
             {
                 researchId: "02014",
@@ -732,7 +732,7 @@ let researchs = [
                 doi: "10.5152/jaem.2015.91069",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D14 The Relationship Between Suicide Attempts and Menstrual Cycles.pdf"
+                fileLink: "/files/D - Ulusal makale/D14 The Relationship Between Suicide Attempts and Menstrual Cycles.pdf"
             },
             {
                 researchId: "02015",
@@ -745,7 +745,7 @@ let researchs = [
                 doi: "10.4328/JCAM.4621",
                 PMID: "",
                 url: "https://www.safetylit.org/citations/index.php?fuseaction=citations.viewdetails&citationIds[]=citjournalarticle_806092_38",
-                fileLink: "../public/files/D - Ulusal makale/D15 Attempted Suicide Hanging Cases Admitted to Emergency Department.pdf"
+                fileLink: "/files/D - Ulusal makale/D15 Attempted Suicide Hanging Cases Admitted to Emergency Department.pdf"
             },
             {
                 researchId: "02016",
@@ -758,7 +758,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D16 Relationship between The Young–Burgess Classification System of Pelvic Fractures and Mortality and Morbidity.pdf"
+                fileLink: "/files/D - Ulusal makale/D16 Relationship between The Young–Burgess Classification System of Pelvic Fractures and Mortality and Morbidity.pdf"
             },
             {
                 researchId: "02017",
@@ -771,7 +771,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/D - Ulusal makale/D17 Acil Serviste Travmatik Ölümlerin Retrospektif Değerlendirilmesi.pdf"
+                fileLink: "/files/D - Ulusal makale/D17 Acil Serviste Travmatik Ölümlerin Retrospektif Değerlendirilmesi.pdf"
             }, {
                 researchId: "02018",
                 year: "2025",
@@ -783,7 +783,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "https://dergipark.org.tr/en/pub/ejcc/issue/94353/1696676",
-                fileLink: "../public/files/D - Ulusal makale/D18 Demographic and Clinical Analysis of Shoulder Dislocations in the Emergency Department.pdf"
+                fileLink: "/files/D - Ulusal makale/D18 Demographic and Clinical Analysis of Shoulder Dislocations in the Emergency Department.pdf"
             },
         ]
     },
@@ -802,7 +802,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/C - Kitap/C01 - Potential Side Effects of Methylprednisolone.pdf"
+                fileLink: "/files/C - Kitap/C01 - Potential Side Effects of Methylprednisolone.pdf"
             }, {
                 researchId: "05002",
                 year: "",
@@ -814,7 +814,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/C - Kitap/C02, C03 - Madde kullanım bozukluğunda acil yaklaşım rehberi.pdf"
+                fileLink: "/files/C - Kitap/C02, C03 - Madde kullanım bozukluğunda acil yaklaşım rehberi.pdf"
             }, {
                 researchId: "05003",
                 year: "",
@@ -826,7 +826,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/C - Kitap/C02, C03 - Madde kullanım bozukluğunda acil yaklaşım rehberi.pdf"
+                fileLink: "/files/C - Kitap/C02, C03 - Madde kullanım bozukluğunda acil yaklaşım rehberi.pdf"
             }, {
                 researchId: "05004",
                 year: "",
@@ -838,7 +838,7 @@ let researchs = [
                 doi: "10.4328/DERMAN.4464",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/C - Kitap/C04 Kafa travması olan hastaya yaklaşım.pdf"
+                fileLink: "/files/C - Kitap/C04 Kafa travması olan hastaya yaklaşım.pdf"
             }, {
                 researchId: "05005",
                 year: "",
@@ -850,7 +850,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/C - Kitap/C05 - I-Emergency - Acute Ischemic Stroke.pdf"
+                fileLink: "/files/C - Kitap/C05 - I-Emergency - Acute Ischemic Stroke.pdf"
             },
         ]
     },
@@ -912,7 +912,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B01 - Metformine bağlı anjiyoödem.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B01 - Metformine bağlı anjiyoödem.pdf"
             },
             {
                 researchId: "03002",
@@ -925,7 +925,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B02 - Suicidal amaçlı maprotilin ve haloperidol alımı.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B02 - Suicidal amaçlı maprotilin ve haloperidol alımı.pdf"
             },
             {
                 researchId: "03003",
@@ -938,7 +938,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B03 - Conservative treatment of pneumatocele.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B03 - Conservative treatment of pneumatocele.pdf"
             },
             {
                 researchId: "03004",
@@ -951,7 +951,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B04 - Consultation system.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B04 - Consultation system.pdf"
             },
             {
                 researchId: "03005",
@@ -964,7 +964,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B05 - Spinal subdural.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B05 - Spinal subdural.pdf"
             },
             {
                 researchId: "03006",
@@ -977,7 +977,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B06 - Spazmodic Torticollis.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B06 - Spazmodic Torticollis.pdf"
             },
             {
                 researchId: "03007",
@@ -990,7 +990,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03008",
@@ -1003,7 +1003,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03009",
@@ -1016,7 +1016,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03010",
@@ -1029,7 +1029,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03011",
@@ -1042,7 +1042,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03012",
@@ -1055,7 +1055,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03013",
@@ -1068,7 +1068,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03014",
@@ -1081,7 +1081,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03015",
@@ -1094,7 +1094,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03016",
@@ -1107,7 +1107,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03017",
@@ -1120,7 +1120,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03018",
@@ -1133,7 +1133,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03019",
@@ -1146,7 +1146,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03020",
@@ -1159,7 +1159,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03021",
@@ -1172,7 +1172,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03022",
@@ -1185,7 +1185,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03023",
@@ -1198,7 +1198,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03024",
@@ -1211,7 +1211,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03025",
@@ -1224,7 +1224,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03026",
@@ -1237,7 +1237,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03027",
@@ -1250,7 +1250,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03028",
@@ -1263,7 +1263,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B07-28 EUCEM Posters.pdf"
             },
             {
                 researchId: "03029",
@@ -1276,7 +1276,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
             },
             {
                 researchId: "03030",
@@ -1289,7 +1289,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
             },
             {
                 researchId: "03031",
@@ -1302,7 +1302,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
             },
             {
                 researchId: "03032",
@@ -1315,7 +1315,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
             },
             {
                 researchId: "03033",
@@ -1328,7 +1328,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
             },
             {
                 researchId: "03034",
@@ -1341,7 +1341,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
             },
             {
                 researchId: "03035",
@@ -1354,7 +1354,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
             },
             {
                 researchId: "03036",
@@ -1367,7 +1367,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
             },
             {
                 researchId: "03037",
@@ -1380,7 +1380,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
             },
             {
                 researchId: "03038",
@@ -1393,7 +1393,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B29-38 Critical Care Posterler.pdf"
             },
             {
                 researchId: "03039",
@@ -1406,7 +1406,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B39-42 2014 Interkontinental posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B39-42 2014 Interkontinental posterler.pdf"
             },
             {
                 researchId: "03040",
@@ -1419,7 +1419,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B39-42 2014 Interkontinental posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B39-42 2014 Interkontinental posterler.pdf"
             },
             {
                 researchId: "03041",
@@ -1432,7 +1432,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B39-42 2014 Interkontinental posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B39-42 2014 Interkontinental posterler.pdf"
             },
             {
                 researchId: "03042",
@@ -1445,7 +1445,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B39-42 2014 Interkontinental posterler.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B39-42 2014 Interkontinental posterler.pdf"
             },
             {
                 researchId: "03043",
@@ -1458,7 +1458,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B43-45 4th Eurasian Congress Abstract Book.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B43-45 4th Eurasian Congress Abstract Book.pdf"
             },
             {
                 researchId: "03044",
@@ -1471,7 +1471,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B43-45 4th Eurasian Congress Abstract Book.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B43-45 4th Eurasian Congress Abstract Book.pdf"
             },
             {
                 researchId: "03045",
@@ -1484,7 +1484,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B43-45 4th Eurasian Congress Abstract Book.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B43-45 4th Eurasian Congress Abstract Book.pdf"
             },
             {
                 researchId: "03046",
@@ -1497,7 +1497,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B46-47 3d Intercontinental Emergency Medicine Congress.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B46-47 3d Intercontinental Emergency Medicine Congress.pdf"
             },
             {
                 researchId: "03047",
@@ -1510,7 +1510,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/B - Uluslararası kongre bildiri/B46-47 3d Intercontinental Emergency Medicine Congress.pdf"
+                fileLink: "/files/B - Uluslararası kongre bildiri/B46-47 3d Intercontinental Emergency Medicine Congress.pdf"
             },
         ]
     },
@@ -1530,7 +1530,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E01 - Yoğun Acil Servis.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E01 - Yoğun Acil Servis.pdf"
             },
             {
                 researchId: "04002",
@@ -1543,7 +1543,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E02 - Travma Resüsitasyon Odası.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E02 - Travma Resüsitasyon Odası.pdf"
             },
             {
                 researchId: "04003",
@@ -1556,7 +1556,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E03 - Suicid Topiramide.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E03 - Suicid Topiramide.pdf"
             },
             {
                 researchId: "04004",
@@ -1569,7 +1569,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E04 - Torasentez.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E04 - Torasentez.pdf"
             },
             {
                 researchId: "04005",
@@ -1582,7 +1582,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E05 - Epidural.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E05 - Epidural.pdf"
             },
             {
                 researchId: "04006",
@@ -1595,7 +1595,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E06 - Kırım kongo.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E06 - Kırım kongo.pdf"
             },
             {
                 researchId: "04007",
@@ -1608,7 +1608,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E07 - Yaşlı Sağlığı sunum 72.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E07 - Yaşlı Sağlığı sunum 72.pdf"
             },
             {
                 researchId: "04008",
@@ -1621,7 +1621,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E08 - Yaşlı Sağlığı sunum 73.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E08 - Yaşlı Sağlığı sunum 73.pdf"
             },
             {
                 researchId: "04009",
@@ -1634,7 +1634,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E09 - Yaşlı Sağlığı poster 82.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E09 - Yaşlı Sağlığı poster 82.pdf"
             },
             {
                 researchId: "04010",
@@ -1647,7 +1647,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E10 - Yaşlı Sağlığı poster 123.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E10 - Yaşlı Sağlığı poster 123.pdf"
             },
             {
                 researchId: "04011",
@@ -1660,7 +1660,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E11 - IX.Acil tıp kongresi posterleri - 1.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E11 - IX.Acil tıp kongresi posterleri - 1.pdf"
             },
             {
                 researchId: "04012",
@@ -1673,7 +1673,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E12 - IX.Acil tıp kongresi posterleri - 2.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E12 - IX.Acil tıp kongresi posterleri - 2.pdf"
             },
             {
                 researchId: "04013",
@@ -1686,7 +1686,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E13 - IX.Acil tıp kongresi posterleri - 3.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E13 - IX.Acil tıp kongresi posterleri - 3.pdf"
             },
             {
                 researchId: "04014",
@@ -1699,7 +1699,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E14 - IX.Acil tıp kongresi posterleri - 4.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E14 - IX.Acil tıp kongresi posterleri - 4.pdf"
             },
             {
                 researchId: "04015",
@@ -1712,7 +1712,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04016",
@@ -1725,7 +1725,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04017",
@@ -1738,7 +1738,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04018",
@@ -1751,7 +1751,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04019",
@@ -1764,7 +1764,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04020",
@@ -1777,7 +1777,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04021",
@@ -1790,7 +1790,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04022",
@@ -1803,7 +1803,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04023",
@@ -1816,7 +1816,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04024",
@@ -1829,7 +1829,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04025",
@@ -1842,7 +1842,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04026",
@@ -1855,7 +1855,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04027",
@@ -1868,7 +1868,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04028",
@@ -1881,7 +1881,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04029",
@@ -1894,7 +1894,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04030",
@@ -1907,7 +1907,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04031",
@@ -1920,7 +1920,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04032",
@@ -1933,7 +1933,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04033",
@@ -1946,7 +1946,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E15-33 - 2014 TATKON Posterler.pdf"
             },
             {
                 researchId: "04034",
@@ -1959,7 +1959,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E34-39 - 2015 Atuder Nisan Kongre Bildiriler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E34-39 - 2015 Atuder Nisan Kongre Bildiriler.pdf"
             },
             {
                 researchId: "04035",
@@ -1972,7 +1972,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E34-39 - 2015 Atuder Nisan Kongre Bildiriler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E34-39 - 2015 Atuder Nisan Kongre Bildiriler.pdf"
             },
             {
                 researchId: "04036",
@@ -1985,7 +1985,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E34-39 - 2015 Atuder Nisan Kongre Bildiriler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E34-39 - 2015 Atuder Nisan Kongre Bildiriler.pdf"
             },
             {
                 researchId: "04037",
@@ -1998,7 +1998,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E34-39 - 2015 Atuder Nisan Kongre Bildiriler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E34-39 - 2015 Atuder Nisan Kongre Bildiriler.pdf"
             },
             {
                 researchId: "04038",
@@ -2011,7 +2011,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E34-39 - 2015 Atuder Nisan Kongre Bildiriler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E34-39 - 2015 Atuder Nisan Kongre Bildiriler.pdf"
             },
             {
                 researchId: "04039",
@@ -2024,7 +2024,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E34-39 - 2015 Atuder Nisan Kongre Bildiriler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E34-39 - 2015 Atuder Nisan Kongre Bildiriler.pdf"
             },
             {
                 researchId: "04040",
@@ -2037,7 +2037,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
             },
             {
                 researchId: "04041",
@@ -2050,7 +2050,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
             },
             {
                 researchId: "04042",
@@ -2063,7 +2063,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
             },
             {
                 researchId: "04043",
@@ -2076,7 +2076,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
             },
             {
                 researchId: "04044",
@@ -2089,7 +2089,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
             },
             {
                 researchId: "04045",
@@ -2102,7 +2102,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
             },
             {
                 researchId: "04046",
@@ -2115,7 +2115,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
             },
             {
                 researchId: "04047",
@@ -2128,7 +2128,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
+                fileLink: "/files/E - Ulusal kongre bildiri/E40-47 - 2015 TATKON Posterler.pdf"
             },
             {
                 researchId: "04048",
@@ -2171,7 +2171,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-SCI-H-1- EJEM.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-SCI-H-1- EJEM.pdf"
             },
             {
                 researchId: "06002", year: "", type: "review", authors: "", title: "", journal: "Saudi Medical Journal	",
@@ -2179,7 +2179,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-SCI-H-2- SMJ.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-SCI-H-2- SMJ.pdf"
             },
             {
                 researchId: "06003",
@@ -2192,7 +2192,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-SCI-H-3- Urology Journal.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-SCI-H-3- Urology Journal.pdf"
             },
             {
                 researchId: "06004",
@@ -2205,7 +2205,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-SCI-H-4- SJTREM.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-SCI-H-4- SJTREM.pdf"
             },
             {
                 researchId: "06005",
@@ -2218,7 +2218,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-SCI-H-5- JIMR.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-SCI-H-5- JIMR.pdf"
             },
             {
                 researchId: "06006",
@@ -2231,7 +2231,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-SCI-H-6- The clinical respiratory journal.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-SCI-H-6- The clinical respiratory journal.pdf"
             },
             {
                 researchId: "06007",
@@ -2244,7 +2244,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-EB-1- JHA Editorial Board.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-EB-1- JHA Editorial Board.pdf"
             },
             {
                 researchId: "06008",
@@ -2257,7 +2257,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-EB-2- JRO Editorial Board.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-EB-2- JRO Editorial Board.pdf"
             },
             {
                 researchId: "06009",
@@ -2270,7 +2270,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-EB-3- IJO Editorial Board.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-EB-3- IJO Editorial Board.pdf"
             },
             {
                 researchId: "06010",
@@ -2283,7 +2283,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-EB-4- JEMI Editorial Board.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-EB-4- JEMI Editorial Board.pdf"
             },
             {
                 researchId: "06011",
@@ -2296,7 +2296,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-H-1- JPAP.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-H-1- JPAP.pdf"
             },
             {
                 researchId: "06012",
@@ -2309,7 +2309,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-H-2- GJHS.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-H-2- GJHS.pdf"
             },
             {
                 researchId: "06013",
@@ -2322,7 +2322,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-H-3- WJEM.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-YD-H-3- WJEM.pdf"
             },
             {
                 researchId: "06014",
@@ -2335,7 +2335,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-Yİ-H-1- ABANT MJ hakemlik.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-Yİ-H-1- ABANT MJ hakemlik.pdf"
             },
             {
                 researchId: "06015",
@@ -2348,7 +2348,7 @@ let researchs = [
                 doi: "",
                 PMID: "",
                 url: "",
-                fileLink: "../public/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-Yİ-H-2-  ODÜ Tıp Dergisi Hakemlik.pdf"
+                fileLink: "/files/F - Diğer belgeler/c - Dergi hakemlik ve editörial board/F-c-Yİ-H-2-  ODÜ Tıp Dergisi Hakemlik.pdf"
             },
         ]
     },
