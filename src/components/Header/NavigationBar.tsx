@@ -11,7 +11,6 @@ function NavigationBar() {
   const navItems = [
     { label: t("nav.home"), path: "/" },
     { label: t("nav.about"), path: "/about" },
-    { label: t("nav.researchs"), path: "/researchs" },
   ];
 
   const activeBg = "#6b0000";
@@ -27,9 +26,10 @@ function NavigationBar() {
         return (
           <Link
             key={item.path}
-            className="h-10 text-center mx-1 my-1 px-3 py-2 rounded-md text-white transition-colors duration-200"
+            className="h-10 text-center mx-1 my-1 px-6 py-2 rounded-md transition-colors duration-200 font-medium"
             style={{
               backgroundColor: isActive ? activeBg : defaultBg,
+              color: "#ffffff",
               opacity: isDark ? 1 : 0.95,
             }}
             to={item.path}

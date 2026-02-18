@@ -58,13 +58,14 @@ ul {
 .header-row {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
+  gap: 12px;
   margin-bottom: 20px;
 }
 
 .logo {
-  max-width: 400px;
+  max-width: 280px;
   height: auto;
 }
 

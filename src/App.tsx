@@ -5,7 +5,6 @@ import { useTheme } from "./context/useTheme";
 import Header from "./components/Header/Header";
 import Home from "./pages/Home";
 import About from "./pages/About";
-import Researchs from "./pages/Researchs";
 import ResearchDetailPage from "./pages/ResearchDetailPage";
 import NotFoundPage from "./pages/NotFoundPage";
 import "./i18n";
@@ -24,7 +23,6 @@ function AppInner() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
-        <Route path="/researchs" element={<Researchs />} />
         <Route path="/researchs/:id" element={<ResearchDetailPage />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
