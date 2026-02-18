@@ -18,7 +18,7 @@ function AppInner() {
   }, [theme]);
 
   return (
-    <div className="page-container w-full max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 overflow-x-hidden">
+    <div className="w-full max-w-[1200px] px-4 sm:px-6 lg:px-8 overflow-x-hidden">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
