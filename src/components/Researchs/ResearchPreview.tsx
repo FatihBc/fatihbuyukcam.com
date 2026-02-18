@@ -33,7 +33,7 @@ function ResearchPreview({ id }: ResearchPreviewProps) {
     );
   }
 
-  const filePath = item.fileLink?.replace(/^(\.\.\/)?public\//, "");
+  const filePath = item.fileLink;
 
   const renderAbstract = (abstract: string | Record<string, string>) => {
     if (typeof abstract === "string") {
@@ -95,7 +95,7 @@ function ResearchPreview({ id }: ResearchPreviewProps) {
         )}
 
         {filePath && (
-          <a href={`/${filePath}`} target="_blank" rel="noopener noreferrer">
+          <a href={filePath} target="_blank" rel="noopener noreferrer">
             <button
               style={{
                 padding: "4px 8px",
