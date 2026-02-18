@@ -17,9 +17,7 @@ function Home() {
 
   return (
     <div className={pageClass}>
-      <div className="relative z-10 mb-4">
-        <DigitalClock />
-      </div>
+      <DigitalClock />
       <div className={containerClass}>
         <div className="w-full text-lg text-center font-semibold p-2 rounded-lg mb-4 bg-[#470000] text-white">
           {t("about.title")}
