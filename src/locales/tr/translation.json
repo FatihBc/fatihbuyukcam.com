@@ -17,6 +17,15 @@
     "work": "İŞ DENEYİMİ",
     "publications": "YAYINLAR"
   },
+  "headTitles": {
+    "internationalPublications": "Uluslararası Yayınlar",
+    "localPublications": "Ulusal Yayınlar",
+    "bookChapters": "Kitap Bölümleri",
+    "oralPresentations": "Sözlü Sunumlar",
+    "internationalPosters": "Uluslararası Posterler",
+    "localPosters": "Ulusal Posterler",
+    "journalReviewer": "Dergi Hakemliği"
+  },
   "researchs": {
     "title": "Araştırmalar",
     "preview": "Önizleme",

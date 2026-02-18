@@ -1,9 +1,11 @@
 import { useTheme } from "../../context/useTheme";
 import researchData from "../../data/data";
 import { FaRegFilePdf } from "react-icons/fa";
+import { useTranslation } from "react-i18next";
 
 function PublicationsList() {
   const { theme } = useTheme();
+  const { t } = useTranslation();
   const isDark = theme === "dark";
 
   const colors = {
@@ -17,7 +19,7 @@ function PublicationsList() {
       {researchData.map((section, sectionIndex) => (
         <div key={sectionIndex} className="mb-4">
           <p className="text-lg font-semibold underline px-10">
-            {section.headTitle}
+            {t(`headTitles.${section.headTitle}`)}
           </p>
           <ol className="list-decimal pl-6 space-y-2">
             {section.content.map((item, index) => (

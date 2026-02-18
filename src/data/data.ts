@@ -1,6 +1,6 @@
 let researchs = [
     {
-        headTitle: "International Publications",
+        headTitle: "internationalPublications",
         content: [
             {
                 researchId: "01001",
@@ -551,7 +551,7 @@ let researchs = [
     },
 
     {
-        headTitle: "Local Publications",
+        headTitle: "localPublications",
         content: [
             {
                 researchId: "02001",
@@ -789,7 +789,7 @@ let researchs = [
     },
 
     {
-        headTitle: "Book Chapters",
+        headTitle: "bookChapters",
         content: [
             {
                 researchId: "05001",
@@ -856,7 +856,7 @@ let researchs = [
     },
 
     {
-        headTitle: "Oral Presentations",
+        headTitle: "oralPresentations",
         content: [
             {
                 researchId: "07001",
@@ -899,7 +899,7 @@ let researchs = [
     },
 
     {
-        headTitle: "International Posters",
+        headTitle: "internationalPosters",
         content: [
             {
                 researchId: "03001",
@@ -1516,7 +1516,7 @@ let researchs = [
     },
 
     {
-        headTitle: "Local Posters",
+        headTitle: "localPosters",
 
         content: [
             {
@@ -2160,7 +2160,7 @@ let researchs = [
     },
 
     {
-        headTitle: "Journal Reviewer",
+        headTitle: "journalReviewer",
         content: [
             {
                 researchId: "06001",

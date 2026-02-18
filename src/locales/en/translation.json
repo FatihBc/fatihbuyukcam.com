@@ -17,6 +17,15 @@
     "work": "WORK EXPERIENCE",
     "publications": "PUBLICATIONS"
   },
+  "headTitles": {
+    "internationalPublications": "International Publications",
+    "localPublications": "Local Publications",
+    "bookChapters": "Book Chapters",
+    "oralPresentations": "Oral Presentations",
+    "internationalPosters": "International Posters",
+    "localPosters": "Local Posters",
+    "journalReviewer": "Journal Reviewer"
+  },
   "researchs": {
     "title": "Researches",
     "preview": "Preview",
