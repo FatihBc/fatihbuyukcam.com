@@ -1,23 +1,17 @@
 import { Link, useLocation } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-import { useTheme } from "../../context/useTheme";
 
 function NavigationBar() {
   const { t } = useTranslation();
-  const { theme } = useTheme();
   const location = useLocation();
-  const isDark = theme === "dark";
 
   const navItems = [
     { label: t("nav.home"), path: "/" },
     { label: t("nav.about"), path: "/about" },
   ];
 
-  const activeBg = "#6b0000";
-  const defaultBg = "#470000";
-
   return (
-    <div className="flex justify-end flex-wrap gap-1">
+    <div className="flex justify-end flex-wrap gap-2">
       {navItems.map((item) => {
         const isActive =
           item.path === "/"
@@ -26,11 +20,13 @@ function NavigationBar() {
         return (
           <Link
             key={item.path}
-            className="h-10 text-center mx-1 my-1 px-6 py-2 rounded-md transition-colors duration-200 font-medium"
+            className="inline-flex items-center justify-center px-6 py-2 rounded-lg font-semibold text-sm tracking-wide transition-all duration-200 shadow-sm hover:shadow-md"
             style={{
-              backgroundColor: isActive ? activeBg : defaultBg,
+              backgroundColor: isActive ? "#6b0000" : "#470000",
               color: "#ffffff",
-              opacity: isDark ? 1 : 0.95,
+              border: isActive ? "1px solid #8b0000" : "1px solid #5a0000",
+              letterSpacing: "0.04em",
+              minWidth: "110px",
             }}
             to={item.path}
           >

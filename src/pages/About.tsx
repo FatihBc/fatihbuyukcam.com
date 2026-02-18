@@ -1,7 +1,4 @@
 import { useTheme } from "../context/useTheme";
-import PersonalHistory from "../components/AboutPage/PersonalHistory";
-import EducationHistory from "../components/AboutPage/EducationHistory";
-import WorkExperience from "../components/AboutPage/WorkExperience";
 import PublicationsList from "../components/AboutPage/PublicationsList";
 import ResearchContainer from "../components/Researchs/ResearchContainer";
 import { useTranslation } from "react-i18next";
@@ -23,9 +20,6 @@ function About() {
         <div className={`w-full text-lg text-center font-semibold p-2 rounded-lg my-2 ${titleBg}`}>
           {t("about.title")}
         </div>
-        <PersonalHistory />
-        <EducationHistory />
-        <WorkExperience />
         <PublicationsList />
         <div className="w-full mt-6">
           <ResearchContainer />

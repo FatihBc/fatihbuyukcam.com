@@ -68,11 +68,11 @@ function Header() {
   const isEN = i18n.language === "en";
 
   return (
-    <div className="header-row pt-4 pb-2">
+    <div className="header-row pt-8 pb-4">
       {/* Logo */}
       <div
         onClick={handleLogoClick}
-        className="cursor-pointer flex items-center"
+        className="cursor-pointer flex items-center self-center"
       >
         <img
           className="logo"
