@@ -10,18 +10,18 @@ function Home() {
   const { t } = useTranslation();
   const isDark = theme === "dark";
 
-  const pageClass = `min-h-screen flex flex-col gap-6 pb-10 ${isDark ? "bg-[#1a0000] text-white" : "bg-[#fdf5f5] text-black"
+  const pageClass = `min-h-screen flex flex-col gap-3 pb-4 ${isDark ? "bg-[#1a0000] text-white" : "bg-[#fdf5f5] text-black"
     }`;
-  const containerClass = `flex flex-col px-10 py-8 border border-[#470000] rounded-lg shadow-md ${isDark ? "bg-[#2a0000] text-white" : "bg-white text-gray-800"
+  const containerClass = `flex flex-col p-4! border border-[#470000] rounded-lg shadow-md ${isDark ? "bg-[#0e0000] text-white" : "bg-white text-gray-800"
     }`;
 
   return (
     <div className={pageClass}>
       <DigitalClock />
+      <div className="w-full text-lg text-center font-semibold py-4! rounded-lg bg-[#470000] text-white">
+        {t("about.title")}
+      </div>
       <div className={containerClass}>
-        <div className="w-full text-lg text-center font-semibold p-2 rounded-lg mb-4 bg-[#470000] text-white">
-          {t("about.title")}
-        </div>
         <PersonalHistory />
         <EducationHistory />
         <WorkExperience />

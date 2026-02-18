@@ -18,7 +18,7 @@ function ResearchContainer() {
     bgMain: isDark ? "#1a0000" : "#fdf5f5",
     headerBg: "#470000",
     headerText: "#ffffff",
-    boxBg: isDark ? "#2a0000" : "#ffffff",
+    boxBg: isDark ? "#0e0000" : "#ffffff",
     boxBorder: isDark ? "#6b0000" : "#470000",
     text: isDark ? "#e0e0e0" : "#333",
     link: isDark ? "#ffb3b3" : "#470000",

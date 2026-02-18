@@ -1,6 +1,5 @@
 import { useTheme } from "../context/useTheme";
 import PublicationsList from "../components/AboutPage/PublicationsList";
-import ResearchContainer from "../components/Researchs/ResearchContainer";
 import { useTranslation } from "react-i18next";
 
 function About() {
@@ -11,19 +10,16 @@ function About() {
   const titleBg = isDark ? "bg-[#470000] text-white" : "bg-[#470000] text-white";
   const pageClass = `min-h-screen md:px-8 lg:px-16 ${isDark ? "bg-[#1a0000] text-white" : "bg-[#fdf5f5] text-black"
     }`;
-  const containerClass = `flex flex-col items-center justify-center px-6 py-12 border border-[#470000] rounded-lg shadow-md ${isDark ? "bg-[#2a0000] text-white" : "bg-white text-gray-800"
+  const containerClass = `flex flex-col items-center justify-center px-10! py-4! border border-[#470000] rounded-lg shadow-md ${isDark ? "bg-[#0e0000] text-white" : "bg-white text-gray-800"
     }`;
 
   return (
     <div className={pageClass}>
+      <div className={`w-full text-lg text-center font-semibold p-2! rounded-lg my-2! ${titleBg}`}>
+        {t("researchs.title")}
+      </div>
       <div className={containerClass}>
-        <div className={`w-full text-lg text-center font-semibold p-2 rounded-lg my-2 ${titleBg}`}>
-          {t("about.title")}
-        </div>
         <PublicationsList />
-        <div className="w-full mt-6">
-          <ResearchContainer />
-        </div>
       </div>
     </div>
   );

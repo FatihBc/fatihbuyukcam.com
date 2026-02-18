@@ -9,13 +9,13 @@ function PublicationsList() {
   const isDark = theme === "dark";
 
   const colors = {
-    pdfBg: isDark ? "#2a0000" : "#470000",
+    pdfBg: isDark ? "#0e0000" : "#fdf4f5",
     pdfBorder: isDark ? "#6b0000" : "#470000",
+    pdftext: isDark ? "#fff" : "#470000",
   };
 
   return (
-    <div className="border-t pt-2">
-      <p className="text-xl font-semibold">{t("about.publications")}</p>
+    <div>
       {researchData.map((section, sectionIndex) => (
         <div key={sectionIndex} className="mb-4">
           <p className="text-lg font-semibold underline px-10">
@@ -23,7 +23,7 @@ function PublicationsList() {
           </p>
           <ol className="list-decimal pl-6 space-y-2">
             {section.content.map((item, index) => (
-              <li key={item.researchId || index} className="text-sm my-1">
+              <li key={item.researchId || index} className="text-sm text-justify my-2!">
                 {item.authors}. {item.title}. {item.journal || item.bookTitle}.{" "}
                 {item.year || item.journal?.match(/\d{4}/)?.[0]}.
                 {item.doi && <span> DOI: {item.doi}. </span>}
@@ -37,7 +37,7 @@ function PublicationsList() {
                         borderRadius: "6px",
                         border: `1px solid ${colors.pdfBorder}`,
                         backgroundColor: colors.pdfBg,
-                        color: "#fff",
+                        color: "colors.pdftext",
                         display: "inline-flex",
                         alignItems: "center",
                         gap: "4px",

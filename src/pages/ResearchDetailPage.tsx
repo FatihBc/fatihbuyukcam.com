@@ -10,12 +10,10 @@ function ResearchDetailPage() {
   const isDark = theme === "dark";
 
   const titleBg = isDark ? "bg-[#470000] text-white" : "bg-[#470000] text-white";
-  const pageClass = `w-full min-h-screen md:px-8 lg:px-16 ${
-    isDark ? "bg-[#1a0000] text-white" : "bg-[#fdf5f5] text-black"
-  }`;
-  const containerClass = `flex flex-col items-center justify-center px-6 py-8 border border-[#470000] rounded-lg shadow-md ${
-    isDark ? "bg-[#2a0000] text-white" : "bg-white text-gray-800"
-  }`;
+  const pageClass = `w-full min-h-screen py-4 ${isDark ? "bg-[#1a0000] text-white" : "bg-[#fdf5f5] text-black"
+    }`;
+  const containerClass = `flex flex-col items-start px-6 py-6 border border-[#470000] rounded-lg shadow-md ${isDark ? "bg-[#0e0000] text-white" : "bg-white text-gray-800"
+    }`;
 
   return (
     <div className={pageClass}>

@@ -5,12 +5,12 @@ function WorkExperience() {
   const { t } = useTranslation();
   return (
     <div>
-      <p className="border-t text-xl font-semibold pt-2">{t("about.work")}</p>
+      <p className="border-t text-lg font-semibold pt-2!">{t("about.work")}</p>
       <div className="pt-1">
         {educationWork
           .filter((item) => item.type === "work")
           .map((item, index) => (
-            <div key={index} className="grid grid-cols-10 gap-4 mb-6 items-start">
+            <div key={index} className="grid grid-cols-10 gap-4! mb-6! items-start">
               <div className="col-span-3">
                 <p className="text-base font-medium">{item.degree}</p>
               </div>

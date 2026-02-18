@@ -87,7 +87,7 @@ function Header() {
       {/* Right side: search + lang switch + theme + navbar */}
       <div className="flex flex-col items-end gap-2">
         {/* Top row: search + lang switch + theme toggle */}
-        <div className="flex items-center gap-2">
+        <div className="flex items-center mb-4! gap-2">
           {/* Search input */}
           <div className="relative" ref={searchRef}>
             <input
@@ -104,14 +104,14 @@ function Header() {
             />
             {results.length > 0 && (
               <div
-                className={`absolute top-full mt-1 w-full z-50 rounded-md shadow-lg ${isDark ? "bg-[#2a0000]" : "bg-white"
+                className={`absolute top-full mt-1! w-full z-50 rounded-md shadow-lg ${isDark ? "bg-[#0e0000]" : "bg-white"
                   }`}
               >
                 {results.map((item) => (
                   <div
                     key={item.researchId}
                     onClick={() => window.open(`/researchs/${item.researchId}`, "_blank")}
-                    className="px-4 py-2 cursor-pointer hover:bg-[#6b0000] hover:text-white rounded-md transition text-sm"
+                    className="px-4 py-2! cursor-pointer hover:bg-[#6b0000] hover:text-white rounded-md transition text-sm"
                     style={{
                       maxWidth: "100%",
                       lineHeight: "1.4",
@@ -132,10 +132,10 @@ function Header() {
           {/* EN / TR Language Switch */}
           <button
             onClick={toggleLanguage}
-            className="flex items-center gap-2 px-5 py-3 rounded-full border transition-colors duration-200 text-base font-semibold cursor-pointer"
+            className="flex items-center gap-2 px-4! py-1! rounded-full border transition-colors duration-200 text-base font-semibold cursor-pointer"
             style={{
               borderColor: isDark ? "#6b0000" : "#470000",
-              backgroundColor: isDark ? "#2a0000" : "#fff0f0",
+              backgroundColor: isDark ? "#0e0000" : "#fff0f0",
               color: isDark ? "#ffb3b3" : "#470000",
             }}
             aria-label="Toggle language"
@@ -150,7 +150,7 @@ function Header() {
             onClick={changeTheme}
             className="h-9 w-9 flex items-center justify-center rounded-full transition-colors duration-200 cursor-pointer"
             style={{
-              backgroundColor: isDark ? "#2a0000" : "#fff0f0",
+              backgroundColor: isDark ? "#0e0000" : "#fff0f0",
               border: `1px solid ${isDark ? "#6b0000" : "#470000"}`,
             }}
             aria-label="Toggle theme"
