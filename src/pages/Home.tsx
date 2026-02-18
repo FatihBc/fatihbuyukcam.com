@@ -10,9 +10,9 @@ function Home() {
   const { t } = useTranslation();
   const isDark = theme === "dark";
 
-  const pageClass = `min-h-screen ${isDark ? "bg-[#1a0000] text-white" : "bg-[#fdf5f5] text-black"
+  const pageClass = `min-h-screen flex flex-col gap-6 pb-10 ${isDark ? "bg-[#1a0000] text-white" : "bg-[#fdf5f5] text-black"
     }`;
-  const containerClass = `flex flex-col px-10 py-8 mt-6 border border-[#470000] rounded-lg shadow-md ${isDark ? "bg-[#2a0000] text-white" : "bg-white text-gray-800"
+  const containerClass = `flex flex-col px-10 py-8 border border-[#470000] rounded-lg shadow-md ${isDark ? "bg-[#2a0000] text-white" : "bg-white text-gray-800"
     }`;
 
   return (
