@@ -43,6 +43,7 @@
     "doi": "DOI",
     "abstract": "Abstract",
     "pubmed": "Show in PUBMED",
-    "detail": "Detail"
+    "detail": "Detail",
+    "goBack": "Go Back"
   }
 }

@@ -43,6 +43,7 @@
     "doi": "DOI",
     "abstract": "Özet",
     "pubmed": "PUBMED'de Göster",
-    "detail": "Detay"
+    "detail": "Detay",
+    "goBack": "Geri Dön"
   }
 }
