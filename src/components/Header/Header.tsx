@@ -132,7 +132,7 @@ function Header() {
           {/* EN / TR Language Switch */}
           <button
             onClick={toggleLanguage}
-            className="flex items-center gap-2 px-4 py-2 rounded-full border transition-colors duration-200 text-sm font-semibold cursor-pointer"
+            className="flex items-center gap-2 px-5 py-3 rounded-full border transition-colors duration-200 text-base font-semibold cursor-pointer"
             style={{
               borderColor: isDark ? "#6b0000" : "#470000",
               backgroundColor: isDark ? "#2a0000" : "#fff0f0",
