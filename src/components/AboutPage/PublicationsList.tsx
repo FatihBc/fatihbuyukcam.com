@@ -1,11 +1,9 @@
 import { useTheme } from "../../context/useTheme";
 import researchData from "../../data/data";
 import { FaRegFilePdf } from "react-icons/fa";
-import { useTranslation } from "react-i18next";
 
 function PublicationsList() {
   const { theme } = useTheme();
-  const { t } = useTranslation();
   const isDark = theme === "dark";
 
   const colors = {
@@ -37,7 +35,7 @@ function PublicationsList() {
                         borderRadius: "6px",
                         border: `1px solid ${colors.pdfBorder}`,
                         backgroundColor: colors.pdfBg,
-                        color: "colors.pdftext",
+                        color: colors.pdftext,
                         display: "inline-flex",
                         alignItems: "center",
                         gap: "4px",
