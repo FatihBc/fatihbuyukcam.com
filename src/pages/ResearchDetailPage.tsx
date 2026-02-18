@@ -21,14 +21,16 @@ function ResearchDetailPage() {
       <div className={containerClass}>
         <div className="w-full p-3">
           <div className="flex items-center gap-3">
-            <button
-              onClick={() => navigate(-1)}
-              className="px-4 py-2 rounded-lg text-sm font-semibold text-black bg-gray-300 hover:bg-gray-400 transition-colors duration-200 cursor-pointer whitespace-nowrap"
-            >
-              ← {t("research_detail.goBack")}
-            </button>
-            <div className={`flex-1 text-lg text-center font-semibold p-2 rounded-lg ${titleBg}`}>
-              {t("research_detail.title")}
+            <div className={`flex flex-row w-full justify-between items-center text-lg text-center font-semibold p-2 rounded-lg ${titleBg}`}>
+              <button
+                onClick={() => navigate(-1)}
+                className="px-4! py-2! m-2! rounded-lg text-sm font-semibold text-black bg-gray-300 hover:bg-gray-400 transition-colors duration-200 cursor-pointer whitespace-nowrap"
+              >
+                ← {t("research_detail.goBack")}
+              </button>
+              <div className="text-center mr-133!">
+                {t("research_detail.title")}
+              </div>
             </div>
           </div>
         </div>

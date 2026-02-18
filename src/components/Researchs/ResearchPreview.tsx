@@ -68,14 +68,14 @@ function ResearchPreview({ id }: ResearchPreviewProps) {
 
   return (
     <div style={{ padding: "1rem", color: colors.text }}>
-      <h3 style={{ marginBottom: "0.5rem" }}>{item.title}</h3>
+      <h3 style={{ marginBottom: "0.5rem", fontWeight: "bold", fontSize: "1.5rem" }}>{item.title}</h3>
       <p><strong>{t("research_detail.authors")}:</strong> {item.authors}</p>
       <p><strong>{t("research_detail.journal")}:</strong> {item.journal}</p>
       {item.doi && <p><strong>{t("research_detail.doi")}:</strong> {item.doi}</p>}
 
       {item.abstract && (
         <div>
-          <h4 style={{ marginTop: "1rem" }}>{t("research_detail.abstract")}</h4>
+          <h4 style={{ marginTop: "1rem", fontWeight: "bold", textDecoration: "underline" }}>{t("research_detail.abstract")}</h4>
           {renderAbstract(item.abstract as string | Record<string, string>)}
         </div>
       )}

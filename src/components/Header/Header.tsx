@@ -111,7 +111,7 @@ function Header() {
                   <div
                     key={item.researchId}
                     onClick={() => window.open(`/researchs/${item.researchId}`, "_blank")}
-                    className="px-4 py-2! cursor-pointer hover:bg-[#6b0000] hover:text-white rounded-md transition text-sm"
+                    className="px-4! py-2! cursor-pointer hover:bg-[#6b0000] hover:text-white rounded-md transition text-sm"
                     style={{
                       maxWidth: "100%",
                       lineHeight: "1.4",
