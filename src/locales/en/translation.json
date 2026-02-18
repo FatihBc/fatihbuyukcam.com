@@ -42,6 +42,7 @@
     "journal": "Journal",
     "doi": "DOI",
     "abstract": "Abstract",
-    "pubmed": "Show in PUBMED"
+    "pubmed": "Show in PUBMED",
+    "detail": "Detail"
   }
 }
