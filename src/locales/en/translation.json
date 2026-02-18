@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "Home Page",
+    "about": "About",
+    "researchs": "Researches"
+  },
+  "header": {
+    "search": "Search researches..."
+  },
+  "home": {
+    "welcome": "Welcome"
+  },
+  "about": {
+    "title": "My Professional Journey",
+    "education": "EDUCATION",
+    "work": "WORK EXPERIENCE",
+    "publications": "PUBLICATIONS"
+  },
+  "researchs": {
+    "title": "Researches",
+    "preview": "Preview",
+    "notFound": "Article not found.",
+    "idNotFound": "Article ID not found."
+  },
+  "research_detail": {
+    "title": "Research Detail",
+    "authors": "Authors",
+    "journal": "Journal",
+    "doi": "DOI",
+    "abstract": "Abstract",
+    "pubmed": "Show in PUBMED"
+  }
+}

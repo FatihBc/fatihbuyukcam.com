@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımda",
+    "researchs": "Araştırmalar"
+  },
+  "header": {
+    "search": "Araştırma ara..."
+  },
+  "home": {
+    "welcome": "Hoş Geldiniz"
+  },
+  "about": {
+    "title": "Profesyonel Yolculuğum",
+    "education": "EĞİTİM",
+    "work": "İŞ DENEYİMİ",
+    "publications": "YAYINLAR"
+  },
+  "researchs": {
+    "title": "Araştırmalar",
+    "preview": "Önizleme",
+    "notFound": "Makale bulunamadı.",
+    "idNotFound": "Makale ID'si bulunamadı."
+  },
+  "research_detail": {
+    "title": "Araştırma Detayı",
+    "authors": "Yazarlar",
+    "journal": "Dergi",
+    "doi": "DOI",
+    "abstract": "Özet",
+    "pubmed": "PUBMED'de Göster"
+  }
+}
