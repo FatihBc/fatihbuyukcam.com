@@ -51,7 +51,7 @@ function ResearchPreview({ id }: ResearchPreviewProps) {
             if (key.startsWith("title") && value) {
               const textKey = `text${key.slice(5)}`;
               return abstract[textKey] ? (
-                <div className="mb-2" key={index}>
+                <div className="mb-4" key={index}>
                   <strong>{value}:</strong> {abstract[textKey]}
                   <br />
                 </div>
