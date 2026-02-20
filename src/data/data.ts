@@ -1,4 +1,4 @@
-let researchs = [
+const researchs = [
     {
         headTitle: "internationalPublications",
         content: [
