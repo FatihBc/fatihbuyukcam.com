@@ -42,8 +42,10 @@
     "journal": "Journal",
     "doi": "DOI",
     "abstract": "Abstract",
+    "keywords": "Keywords",
     "pubmed": "Show in PUBMED",
     "detail": "Detail",
+    "url": "Web Link",
     "goBack": "Go Back"
   }
 }

@@ -79,7 +79,7 @@ function ResearchPreview({ id }: ResearchPreviewProps) {
           {renderAbstract(item.abstract as string | Record<string, string>)}
         </div>
       )}
-
+      {item.keywords && <p><strong>{t("research_detail.keywords")}:</strong> {item.keywords}</p>}
       <div style={{ marginTop: "1rem", display: "flex", gap: "10px", alignItems: "center", flexWrap: "wrap" }}>
         {item.PMID && (
           <a
@@ -93,7 +93,18 @@ function ResearchPreview({ id }: ResearchPreviewProps) {
             {t("research_detail.pubmed")}
           </a>
         )}
-
+        {item.url && (
+          <a
+            href={item.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ color: colors.link, textDecoration: "underline", transition: "color 0.3s" }}
+            onMouseOver={(e) => ((e.target as HTMLElement).style.color = colors.linkHover)}
+            onMouseOut={(e) => ((e.target as HTMLElement).style.color = colors.link)}
+          >
+            {t("research_detail.url")}
+          </a>
+        )}
         {filePath && (
           <a href={filePath} target="_blank" rel="noopener noreferrer">
             <button

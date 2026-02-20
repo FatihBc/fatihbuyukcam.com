@@ -42,8 +42,10 @@
     "journal": "Dergi",
     "doi": "DOI",
     "abstract": "Özet",
+    "keywords": "Anahtar kelimeler",
     "pubmed": "PUBMED'de Göster",
     "detail": "Detay",
+    "url": "Web Link",
     "goBack": "Geri Dön"
   }
 }
