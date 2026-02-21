@@ -49,7 +49,7 @@ function PublicationsList() {
                       {t("research_detail.detail")}
                     </button>
                   )}
-                  {item.fileLink && (
+                  {/* {item.fileLink && (
                     <a href={item.fileLink} target="_blank" rel="noopener noreferrer">
                       <button
                         style={{
@@ -69,7 +69,7 @@ function PublicationsList() {
                         PDF <FaRegFilePdf />
                       </button>
                     </a>
-                  )}
+                  )} */}
                 </span>
               </li>
             ))}

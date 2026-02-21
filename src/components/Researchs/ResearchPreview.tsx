@@ -105,7 +105,7 @@ function ResearchPreview({ id }: ResearchPreviewProps) {
             {t("research_detail.url")}
           </a>
         )}
-        {filePath && (
+        {/* {filePath && (
           <a href={filePath} target="_blank" rel="noopener noreferrer">
             <button
               style={{
@@ -124,7 +124,7 @@ function ResearchPreview({ id }: ResearchPreviewProps) {
               PDF <FaRegFilePdf />
             </button>
           </a>
-        )}
+        )}  */}
       </div>
     </div>
   );
