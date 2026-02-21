@@ -1,4 +1,3 @@
-import { FaRegFilePdf } from "react-icons/fa";
 import { useTheme } from "../../context/useTheme";
 import researchs from "../../data/data";
 import { useTranslation } from "react-i18next";
@@ -32,8 +31,6 @@ function ResearchPreview({ id }: ResearchPreviewProps) {
       </div>
     );
   }
-
-  const filePath = item.fileLink;
 
   const renderAbstract = (abstract: string | Record<string, string>) => {
     if (typeof abstract === "string") {

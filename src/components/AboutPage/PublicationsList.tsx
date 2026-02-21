@@ -1,7 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import { useTheme } from "../../context/useTheme";
 import researchData from "../../data/data";
-import { FaRegFilePdf } from "react-icons/fa";
 import { useTranslation } from "react-i18next";
 
 function PublicationsList() {
